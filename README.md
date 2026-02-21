@@ -4,9 +4,7 @@
 
 ## Overview
 
-This repository contains the full pipeline for automated classification of major psychiatric disorders — **Bipolar Disorder (BD)**, **Major Depressive Disorder (MDD)**, and **Schizophrenia (SCZ)** — from standard 12-lead ECG recordings using multi-domain feature extraction and ensemble machine learning.
-
-The system achieves **94.8% overall accuracy** (95% CI: 92.1–96.8%) across four diagnostic categories (BD / MDD / SCZ / Healthy Control), with a mean processing time of **12.7 seconds per participant** on standard clinical hardware.
+This repository contains the full pipeline for automated classification of major psychiatric disorders — **Bipolar Disorder (BD)**, **Major Depressive Disorder (MDD)**, and **Schizophrenia (SCZ)** — from standard 12-lead ECG recordings using multi-domain feature extraction and ensemble machine learning. The system achieves **94.8% overall accuracy** (95% CI: 92.1–96.8%) across four diagnostic categories (BD / MDD / SCZ / Healthy Control).
 
 ---
 
