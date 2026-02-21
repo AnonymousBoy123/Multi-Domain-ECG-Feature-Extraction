@@ -133,7 +133,8 @@ python statistic_analysis/hrv_group_comparison.py
 
 ## Data
 
-The study enrolled **233 participants** from a single tertiary psychiatric centre:
+ECG recordings: 12-lead, 500 Hz, mean duration 598.7 ± 45.2 seconds, acquired under controlled resting conditions.
+
 
 | Group | N | Mean Age |
 |---|---|---|
@@ -142,9 +143,7 @@ The study enrolled **233 participants** from a single tertiary psychiatric centr
 | Schizophrenia | 119 | 35.3 ± 11.2 yr |
 | Healthy Controls | 35 | 33.8 ± 9.5 yr |
 
-ECG recordings: 12-lead, 500 Hz, mean duration 598.7 ± 45.2 seconds, acquired under controlled resting conditions.
 
-> **Note:** The raw clinical dataset is not publicly released due to patient privacy regulations. To reproduce results, please contact the corresponding authors for data access agreements.
 
 ---
 
